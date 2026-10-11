@@ -8,7 +8,11 @@ then run directly though terminal with `./out`
 
 ## Controls
 Esc to quit
-up arrow to move front
-down arrow to move back
-left arrow to look left
-right arrow to look right
+
+Up arrow to move front
+
+Down arrow to move back
+
+Left arrow to look left
+
+Right arrow to look right
